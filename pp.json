@@ -3212,6 +3212,10 @@
     "pais": "",
     "canales": [
       {
+  "titulo": "FOX HD GUA",
+  "enlace": "http://168.228.44.241:9997/play/a053/index.m3u8"
+      },
+      {
         "titulo": "Amigos TV Chiquimula",
         "enlace": "https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8"
       },
